@@ -32,7 +32,8 @@ Pour réussir l'assemblage de votre TrackSense, veuillez suivre les instructions
 9. Placer le bitognau sur le bouton d'alimentation
     > ![Bitognau](./Photos_assemblage/)
 
-10. Installer les boutons et l'écran dans le couvercle
+10. Installer les boutons et l'écran dans le couvercle 
+    > ATTENTION à l'emplacement des boutons 1 et 2 !
     > ![Couvercle](./Photos_assemblage/Couvercle.jpg)
 
 11. Fermer le couvercle et insérer les tiges filetées
