@@ -32,4 +32,4 @@ Le présent dépôt rassemble les informations générales et tout ce qui n'est 
 
 [Boitier](./Boitier/)
 
-
+[Composants](./Composants/)
