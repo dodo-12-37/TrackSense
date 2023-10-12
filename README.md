@@ -7,9 +7,16 @@
 
 Le présent dépôt rassemble les informations générales et tout ce qui n'est pas du développement des applications (embarquée, mobile, Web, Base de données). Chaque application à son dépôt.
 
+## Comment créer votre TrackSense !
+
+Pour garantir le bon fonctionnement de votre TrackSense, de sa communication avec votre application mobile et la sauvegarde de vos données, veuillez suivre les étapes [disponibles ici](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/TrackSense/wiki) !
+
 ## Application embarquée
 
  [Dépôt](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/420-W57-SF_E23_4394_TrackSense_AppEmbarque)
+
+ [Procédure d'installation](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/420-W57-SF_E23_4394_TrackSense_AppEmbarque/wiki)
+
 
 ## Application mobile
 
