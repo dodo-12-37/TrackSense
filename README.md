@@ -42,5 +42,5 @@
 ## Informations générales
 
 > Quelques informations et/ou éléments supplémentaires :
-> - [Logo](./tree/main/Logo/)
-> - [Composants](./tree/main/Composants)
+> - [Logo](./TrackSense/tree/main/Logo/)
+> - [Composants](./TrackSense/tree/main/Composants)
