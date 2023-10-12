@@ -1,11 +1,13 @@
 # TrackSense
 
-- TrackSense est un boitier à fixer sur votre vélo pour enregistrer vos trajets.
-- L'application mobile permet la récupération, l'affichage et la sauvegarde des trajets. Elle sert également à la configuration du TrackSense.
-- L'API (serveur Web) est l'interface permettant de sauvegarder et récupérer les trajets.
-- La base de données sert à sauvegarder les données.
+> Le projet TrackSense est développé par des étudiants du programme [Techniques de l'informatique - Programmation, bases de données et serveurs - DEC accéléré](https://dfc.csfoy.ca/retourner-aux-etudes/programmes-a-temps-plein/informatique/techniques-de-linformatique-programmation-bases-de-donnees-et-serveurs-dec-accelere/) du cégep de Ste-Foy, dans le cadre de leur projet de synthèse.
 
-Le présent dépôt rassemble les informations générales et tout ce qui n'est pas du développement des applications (embarquée, mobile, Web, Base de données). Chaque application à son dépôt.
+> - TrackSense est un boitier à fixer sur votre vélo pour enregistrer vos trajets.
+> - L'application mobile permet la récupération, l'affichage et la sauvegarde des trajets. Elle sert également à la configuration du TrackSense.
+> - L'API (serveur Web) est l'interface permettant de sauvegarder et récupérer les trajets.
+> - La base de données sert à sauvegarder les données.
+
+> Le présent dépôt rassemble les informations générales et tout ce qui n'est pas du développement des applications (embarquée, mobile, Web, Base de données). Chaque application à son dépôt.
 
 ## Créer votre TrackSense !
 
