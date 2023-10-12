@@ -1,0 +1,84 @@
+Description :
+
+Hardware Specifications
+
+Main chip
+	
+
+ESP32-WROVER-B,SIM7000G
+
+Flash Memory
+	
+
+4M Flash / 8M PSRAM
+
+Interface
+	
+
+USB,SD Card,Solar Input interface
+
+Car Clock
+	
+
+40MHz
+
+Button
+	
+
+Reset,Power switch
+
+SIM Card Size
+	
+
+Nano SIM Card
+
+Antenna
+	
+
+SIM Antenna，GPS Antenna
+
+Operating Temperature Range
+	
+
+-40-85 degrees
+
+
+	
+
+
+Power Specifications
+
+Working Voltage
+	
+
+5v input
+
+Charging Current
+	
+
+780mA
+
+Working Curent
+	
+
+About 200mA
+
+Solar input voltage range
+	
+
+4.4-6v
+
+USB
+	
+
+TYPE-C 3.0
+
+JST connector
+	
+
+2pin 2.0MM
+
+Battery holder
+	
+
+18650 battery holder

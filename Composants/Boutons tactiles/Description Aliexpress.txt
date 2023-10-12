@@ -1,0 +1,27 @@
+Description
+Report Item
+
+The Digital Sensor TTP223B Module Capacitive Touch Switch is based on a touch-sensing IC (TTP223B) capacitive touch switch module. Allows you to remove the worry of conventional push-type keys.
+
+Digital Capacitive Touch Switch Module is based on TTP223B. Normally, it outputs low and keeps at low power state. When a touch is sensed on the circular marked region, it outputs high and switches to the quick response state. When not being touched for 12 seconds, it switches to low power state again.
+
+If the module is mounted in the surfaces of non-metallic materials such as plastic, glass, acrylic, you can make the keys hidden in the walls and desks.
+
+In addition to the thin paper ( non-metallic ) covering the surface of the module, as long as the correct location of the touch, you can make hidden in the walls, desktops and other parts of buttons.
+
+Touch Sensor Interface:
+Control Interface: A total of three pins (GND, VCC, SIG), GND to the ground, VCC is the power supply, SIG digital signal output pin
+Power Indicator: Green LED, power on the right that is shiny
+Touch area: Similar to a fingerprint icon inside the area, you can touch the trigger finger.
+Positioning holes: 4 M2 screws positioning hole diameter is 2.2mm, the positioning of the module is easy to install, to achieve inter-module combination.
+
+Features :
+Low power consumption
+Power supply for 2 ~ 5.5V DC
+Can replace the traditional touch of a button
+Four M2 screws positioning holes for easy installation
+Output Pin Sink Current (@ VCC = 3V, VOL = 0.6V) : 8 mA
+Output pin pull-up current (@ VCC = 3V, VOH = 2.4V) : 4 mA
+
+Package Includes :
+10 x Digital Sensor TTP223B Module Capacitive Touch Switch

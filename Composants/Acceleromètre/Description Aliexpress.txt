@@ -1,0 +1,13 @@
+ Description
+
+10DOF modules (three-axis gyroscope + triaxial accelerometer + three-axis magnetic field + Pressure)
+
+Immersion Gold PCB process
+
+Using the chip: MPU6050 + HMC5883L + BMP180
+
+Power supply :3-5v
+
+Means of communication: IIC communication protocol (fully compatible with 3-5v system containing LLC circuit)
+
+Size: 2.2cm * 1.7cm
