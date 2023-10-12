@@ -42,6 +42,5 @@
 ## Informations générales
 
 > Quelques informations et/ou éléments supplémentaires :
-> - [Logo](./Logo/)
-> - [Boitier](./Boitier/)
-> - [Composants](./Composants/)
+> - [Logo](./tree/main/Logo/)
+> - [Composants](./tree/main/Composants)
