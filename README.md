@@ -44,3 +44,12 @@
 > Quelques informations et/ou éléments supplémentaires :
 > - [Logo](./TrackSense/tree/main/Logo/)
 > - [Composants](./TrackSense/tree/main/Composants)
+
+## Contributeurs
+
+### Session été 2023
+
+> [Dominique Lebrun](https://github.com/dodo-12-37)<br>
+> [Loïc Delas](https://github.com/LoicDelas)<br>
+> [Tien Binh Nguyen](https://github.com/binhnguyen84)<br>
+> [Simon Quillaud](https://github.com/simonquillaud)
