@@ -1,11 +1,16 @@
-# TrackSense
+
+# TrackSense 
 
 > Le projet TrackSense est développé par des étudiants du programme [Techniques de l'informatique - Programmation, bases de données et serveurs - DEC accéléré](https://dfc.csfoy.ca/retourner-aux-etudes/programmes-a-temps-plein/informatique/techniques-de-linformatique-programmation-bases-de-donnees-et-serveurs-dec-accelere/) du cégep de Ste-Foy, dans le cadre de leur projet de synthèse.
+
+<img src="./Logo/Logo TS Noir.jpg" alt="Logo_TrackSense" width="200"/>
 
 > - TrackSense est un boitier à fixer sur votre vélo pour enregistrer vos trajets.
 > - L'application mobile permet la récupération, l'affichage et la sauvegarde des trajets. Elle sert également à la configuration du TrackSense.
 > - L'API (serveur Web) est l'interface permettant de sauvegarder et récupérer les trajets.
 > - La base de données sert à sauvegarder les données.
+
+<img src="./Images/On_the_road.gif" alt="Logo_TrackSense" width="200"/>
 
 > Le présent dépôt rassemble les informations générales et tout ce qui n'est pas du développement des applications (embarquée, mobile, Web, Base de données). Chaque application à son dépôt.
 
@@ -13,16 +18,22 @@
 
 > Pour garantir le bon fonctionnement de votre TrackSense, de sa communication avec votre application mobile et la sauvegarde de vos données, veuillez suivre les étapes [disponibles ici](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/TrackSense/wiki) !
 
+<img src="./Images/TS_ready.jpg" alt="Logo_TrackSense" width="200"/>
+
 ## Application embarquée
+
 
 > L'application embarquée est le programme qui va s'exécuter à l'intérieur de votre TrackSense.
 > Vous trouverez son dépôt GitHub [ici](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/420-W57-SF_E23_4394_TrackSense_AppEmbarque).
 
+<img src="./Images/On_the_bike.jpg" alt="Logo_TrackSense" width="200"/>
 
 ## Application mobile
 
 > L'application mobile est nécessaire pour configurer et communiquer avec votre TrackSense.
 > Vous trouverez son dépôt GitHub [ici](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/420-W57-SF_E23_4394_TrackSense_AppMobile).
+
+<img src="./Images/trackSenseAppDemo.gif" alt="Logo_TrackSense" width="200"/>
 
 ## Application Web (API)
 
@@ -41,6 +52,8 @@
 
 ## Informations générales
 
+<img src="./Logo/Logo TS Blanc.jpg" alt="Logo_TrackSense" width="200"/>
+
 > Quelques informations et/ou éléments supplémentaires :
 > - [Logo](./TrackSense/tree/main/Logo/)
 > - [Composants](./TrackSense/tree/main/Composants)
@@ -49,7 +62,7 @@
 
 ### Session été 2023
 
-> [Dominique Lebrun](https://github.com/dodo-12-37)<br>
-> [Loïc Delas](https://github.com/LoicDelas)<br>
-> [Tien Binh Nguyen](https://github.com/binhnguyen84)<br>
-> [Simon Quillaud](https://github.com/simonquillaud)
+>-  [Dominique Lebrun](https://github.com/dodo-12-37)
+>-  [Loïc Delas](https://github.com/LoicDelas)
+>-  [Tien Binh Nguyen](https://github.com/binhnguyen84)
+>-  [Simon Quillaud](https://github.com/simonquillaud)
