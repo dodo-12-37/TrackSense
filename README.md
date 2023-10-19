@@ -47,17 +47,17 @@
 
 ## Application Web (API)
 
-> L'application Web est l'interface qui vous permet de communiquer avec votre base de données. Elle peut être ébergée en ligne ou chez vous.
+> L'application Web est l'interface qui vous permet de communiquer avec votre base de données. Elle peut être hébergée en ligne ou chez vous.
 > Vous trouverez son dépôt GitHub [ici](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/420-W57-SF_E23_4394_TrackSense_ServeurWeb).
 
 ## Base de données
 
-> La base de données est l'endroit où sont stocké vos données. Elle n'est accessible que via l'application Web.
+> La base de données est l'endroit où sont stockées vos données. Elle n'est accessible que via l'application Web.
 > Vous trouverez son dépôt GitHub [ici](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/420-W57-SF_E23_4394_TrackSense_BD).
 
 ## Manuel utilisateur
 
-> Comment utiliser mon TrackSense ? Quelles sont les fonctionnalités ? Ça fait quoi quand j'appuis sur un bouton ?
+> Comment utiliser mon TrackSense ? Quelles sont les fonctionnalités ? Ça fait quoi quand j'appuie sur un bouton ?
 > Pour avoir toutes les réponses à ces questions et bien d'autres, vous trouverez le manuel de l'utilisateur [ici](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/TrackSense/wiki/Manuel) !  
 
 ## Informations générales
