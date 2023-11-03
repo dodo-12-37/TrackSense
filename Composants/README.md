@@ -49,3 +49,5 @@
 | Inserts filetés M2 | [aliexpress](https://fr.aliexpress.com/item/1005003452792764.html?spm=a2g0o.order_list.order_list_main.6.752a5e5bDKoyfo&gatewayAdapt=glo2fra) | 5.00$ |
 | Tiges fileteés M1 | [aliexpress](https://fr.aliexpress.com/item/1005001578222754.html?spm=a2g0o.order_detail.order_detail_item.12.31077d56atSFBo&gatewayAdapt=glo2fra) | 7.00$ |
 | Filament imprmante 3D | [aliexpress](https://fr.aliexpress.com/item/1005005581829928.html?spm=a2g0o.productlist.main.3.21aaQcREQcREEf&algo_pvid=6ca7bf71-5eaf-4547-ac73-a7cc9c227ce2&algo_exp_id=6ca7bf71-5eaf-4547-ac73-a7cc9c227ce2-1&pdp_npi=4%40dis%21CAD%2119.40%2110.48%21%21%21101.80%21%21%402103245416971391538176307e12aa%2112000033634866138%21sea%21CA%212631034824%21&curPageLogUid=gyCafrtxVe44) | 26.00$ |
+| ---- | ---- | ---- |
+| **Total** | --- | **116.57$** |
