@@ -12,7 +12,7 @@
 > - L'API (serveur Web) est l'interface permettant de sauvegarder et récupérer les trajets.
 > - La base de données sert à sauvegarder les données.
 
-**Visionez une démonstration sur youtube**
+**Visionnez une démonstration sur youtube**
 
 [![Youtube Video](./Images/Youtube_logo.png)](https://youtu.be/xw6XdrmhHGA) 
 
